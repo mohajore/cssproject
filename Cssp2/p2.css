@@ -58,6 +58,10 @@ body{
     box-shadow: -3px -3px 30px 3px rgb(226, 226, 226), 3px 3px 30px 3px rgb(133, 133, 133);
     transition: box-shadow 0.3s ease-in-out;
 }
+.category-item:hover .category-item img{
+    box-shadow: -3px -3px 30px 3px rgb(226, 226, 226), 3px 3px 30px 3px rgb(133, 133, 133);
+    transition: box-shadow 0.3s ease-in-out;
+}
 
 
 .div2 .p0{
